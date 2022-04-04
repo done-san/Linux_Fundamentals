@@ -1,2 +1,0 @@
-# Linux_Fundamentals
-Linux_Fundamentals
