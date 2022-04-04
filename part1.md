@@ -117,9 +117,13 @@ Linuxカーネルを基にして、主要なライブラリやコマンド、シ
 - fileX : ファイル
 
 dir1
+
 |___ dir2 _ file1
+
 |___ dir3 _ file2
+
 |___ dir4 _ file3
+
 |___ file4
 
 
